@@ -15,7 +15,6 @@ limestone	chisel:limestone2			7	no		minecraft:stone			uniform		70		10		0	255
 marble		chisel:marble2	    		7	no		minecraft:stone			uniform		70		10		0	255
 clay		minecraft:clay				0	no		minecraft:stone			uniform		33		10		0	80
 sand		minecraft:sand				0	no		minecraft:stone			uniform		33		10		0	80
-moss		minecraft:mossy_cobblestone	0	no		minecraft:stone			uniform		33		10		0	80
 
 
 lead		immersiveengineering:ore	2	no		minecraft:stone			uniform		5		3		15	40
@@ -40,3 +39,11 @@ astralsorcery:blockcustomsandore
 cobaltNN	tconstruct:ore				0	no		minecraft:netherrack		uniform		1		2		45	65
 arditeNN	tconstruct:ore				1	no		minecraft:netherrack		uniform		1		3		45	65
 quartzNN	minecraft:quartz_ore		0	no		minecraft:netherrack		uniform		8		4		45	65
+
+
+Embers
+Thaumcraft
+Immersive
+Aggric
+Drawbridges
+Wizardry
