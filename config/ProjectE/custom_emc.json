@@ -1,0 +1,440 @@
+{
+  "entries": [
+    {
+      "item": "immersiveengineering:metal|39",
+      "emc": 256
+    },
+    {
+      "item": "immersiveengineering:metal|40",
+      "emc": 2048
+    },
+    {
+      "item": "thaumcraft:metal_alchemical|0",
+      "emc": 1500
+    },
+    {
+      "item": "thaumcraft:vis_resonator|0",
+      "emc": 512
+    },
+    {
+      "item": "thaumcraft:thaumometer|0",
+      "emc": 10000
+    },
+    {
+      "item": "thaumcraft:dioptra|0",
+      "emc": 12000
+    },
+    {
+      "item": "thaumcraft:mechanism_simple|0",
+      "emc": 3000
+    },
+    {
+      "item": "thaumcraft:morphic_resonator|0",
+      "emc": 6500
+    },
+    {
+      "item": "thaumcraft:centrifuge|0",
+      "emc": 12000
+    },
+    {
+      "item": "thaumcraft:mind|0",
+      "emc": 5000
+    },
+    {
+      "item": "thaumcraft:brain_box|0",
+      "emc": 8000
+    },
+    {
+      "item": "thaumcraft:infusion_matrix|0",
+      "emc": 4500
+    },
+    {
+      "item": "thaumcraft:bellows|0",
+      "emc": 2200
+    },
+    {
+      "item": "thaumcraft:levitator|0",
+      "emc": 8700
+    },
+    {
+      "item": "thaumcraft:smelter_aux|0",
+      "emc": 6500
+    },
+    {
+      "item": "thaumcraft:filter|0",
+      "emc": 2000
+    },
+    {
+      "item": "thaumcraft:smelter_vent|0",
+      "emc": 9000
+    },
+    {
+      "item": "thaumcraft:seal|0",
+      "emc": 1000
+    },
+    {
+      "item": "thaumcraft:wand_workbench|0",
+      "emc": 5000
+    },
+    {
+      "item": "thaumcraft:arcane_workbench_charger|0",
+      "emc": 1000
+    },
+    {
+      "item": "thaumcraft:redstone_relay|0",
+      "emc": 3100
+    },
+    {
+      "item": "tg:extruder|0",
+      "emc": 8000
+    },
+    {
+      "item": "thaumcraft:essentia_output|0",
+      "emc": 4500
+    },
+    {
+      "item": "thaumcraft:essentia_input|0",
+      "emc": 4500
+    },
+    {
+      "item": "thaumcraft:pattern_crafter|0",
+      "emc": 7000
+    },
+    {
+      "item": "minecraft:ender_eye|0",
+      "emc": 2000
+    },
+    {
+      "item": "thaumcraft:vis_generator|0",
+      "emc": 8500
+    },
+    {
+      "item": "thaumcraft:grapple_gun_spool|0",
+      "emc": 3000
+    },
+    {
+      "item": "thaumcraft:grapple_gun_tip|0",
+      "emc": 15000
+    },
+    {
+      "item": "thaumcraft:grapple_gun|0",
+      "emc": 17000
+    },
+    {
+      "item": "thaumcraft:recharge_pedestal|0",
+      "emc": 18000
+    },
+    {
+      "item": "thaumcraft:vis_battery|0",
+      "emc": 1000
+    },
+    {
+      "item": "thaumcraft:focus_3|0",
+      "emc": 100000
+    },
+    {
+      "item": "thaumcraft:condenser|0",
+      "emc": 12000
+    },
+    {
+      "item": "thaumcraft:condenser_lattice|0",
+      "emc": 6000
+    },
+    {
+      "item": "thaumcraft:spa|0",
+      "emc": 5000
+    },
+    {
+      "item": "thaumcraft:potion_sprayer|0",
+      "emc": 6000
+    },
+    {
+      "item": "thaumcraft:metal_alchemical_advanced|0",
+      "emc": 100000
+    },
+    {
+      "item": "minecraft:furnace|0",
+      "emc": 50
+    },
+    {
+      "item": "thaumcraft:smelter_basic|0",
+      "emc": 4500
+    },
+    {
+      "item": "thaumcraft:smelter_thaumium|0",
+      "emc": 17000
+    },
+    {
+      "item": "thaumcraft:smelter_void|0",
+      "emc": 130000
+    },
+    {
+      "item": "thaumcraft:tube_restrict|0",
+      "emc": 83
+    },
+    {
+      "item": "thaumcraft:tube_oneway|0",
+      "emc": 83
+    },
+    {
+      "item": "thaumcraft:lamp_arcane|0",
+      "emc": 3000
+    },
+    {
+      "item": "thaumcraft:mirrored_glass|0",
+      "emc": 150
+    },
+    {
+      "item": "thaumcraft:arcane_ear|0",
+      "emc": 5550
+    },
+    {
+      "item": "thaumcraft:arcane_ear_toggle|0",
+      "emc": 5550
+    },
+    {
+      "item": "thaumcraft:turret|0",
+      "emc": 8000
+    },
+    {
+      "item": "thaumcraft:turret|1",
+      "emc": 38000
+    },
+    {
+      "item": "thaumcraft:paving_stone_barrier|0",
+      "emc": 50
+    },
+    {
+      "item": "thaumcraft:paving_stone_travel|0",
+      "emc": 50
+    },
+    {
+      "item": "thaumcraft:matrix_speed|0",
+      "emc": 80000
+    },
+    {
+      "item": "thaumcraft:matrix_cost|0",
+      "emc": 80000
+    },
+    {
+      "item": "thaumcraft:inlay|0",
+      "emc": 1000
+    },
+    {
+      "item": "thaumcraft:mechanism_complex|0",
+      "emc": 10000
+    },
+    {
+      "item": "thaumcraft:stabilizer|0",
+      "emc": 13000
+    },
+    {
+      "item": "thaumcraft:module|1",
+      "emc": 5000
+    },
+    {
+      "item": "thaumcraft:module|0",
+      "emc": 6000
+    },
+    {
+      "item": "tg:ageing_stone|0",
+      "emc": 8000
+    },
+    {
+      "item": "thaumadditions:twilight_totem|0",
+      "emc": 200
+    },
+    {
+      "item": "thaumadditions:dawn_totem|0",
+      "emc": 200
+    },
+    {
+      "item": "thaumadditions:jar_thaumium|0",
+      "emc": 3000
+    },
+    {
+      "item": "thaumadditions:jar_eldritch|0",
+      "emc": 5000
+    },
+    {
+      "item": "thaumadditions:dna_sample|0",
+      "emc": 25000
+    },
+    {
+      "item": "thaumadditions:jar_mithrillium|0",
+      "emc": 25000
+    },
+    {
+      "item": "thaumadditions:jar_adaminite|0",
+      "emc": 150000
+    },
+    {
+      "item": "thaumadditions:jar_mithminite|0",
+      "emc": 200000
+    },
+    {
+      "item": "thaumadditions:mithrillium_smelter|0",
+      "emc": 300000
+    },
+    {
+      "item": "thaumadditions:adaminite_smelter|0",
+      "emc": 1000000
+    },
+    {
+      "item": "thaumadditions:mithminite_ingot|0",
+      "emc": 500000
+    },
+    {
+      "item": "thaumadditions:mithminite_plate|0",
+      "emc": 500000
+    },
+    {
+      "item": "thaumadditions:mithminite_smelter|0",
+      "emc": 3000000
+    },
+    {
+      "item": "thaumadditions:mithminite_fabric|0",
+      "emc": 300000
+    },
+    {
+      "item": "thaumadditions:adaminite_hood|0",
+      "emc": 300000
+    },
+    {
+      "item": "thaumadditions:adaminite_robe|0",
+      "emc": 300000
+    },
+    {
+      "item": "thaumadditions:adaminite_belt|0",
+      "emc": 300000
+    },
+    {
+      "item": "thaumadditions:adaminite_boots|0",
+      "emc": 300000
+    },
+    {
+      "item": "thaumadditions:adaminite_fabric|0",
+      "emc": 50000
+    },
+    {
+      "item": "thaumcraft:sanity_checker|0",
+      "emc": 1000
+    },
+    {
+      "item": "thaumadditions:mithminite_hood|0",
+      "emc": 1000000
+    },
+    {
+      "item": "thaumadditions:mithminite_robe|0",
+      "emc": 1000000
+    },
+    {
+      "item": "thaumadditions:mithminite_belt|0",
+      "emc": 1000000
+    },
+    {
+      "item": "thaumadditions:mithminite_boots|0",
+      "emc": 1000000
+    },
+    {
+      "item": "minecraft:gold_nugget|0",
+      "emc": 200
+    },
+    {
+      "item": "minecraft:golden_carrot|0",
+      "emc": 1500
+    },
+    {
+      "item": "thaumadditions:seal_globe|0",
+      "emc": 4500
+    },
+    {
+      "item": "thaumicbases:ironspike|0",
+      "emc": 1000
+    },
+    {
+      "item": "thaumicbases:thaumspike|0",
+      "emc": 7000
+    },
+    {
+      "item": "thaumicbases:voidspike|0",
+      "emc": 13000
+    },
+    {
+      "item": "thaumicbases:bloodyboots|0",
+      "emc": 500
+    },
+    {
+      "item": "thaumicbases:bloodylegs|0",
+      "emc": 700
+    },
+    {
+      "item": "thaumicbases:bloodychest|0",
+      "emc": 1000
+    },
+    {
+      "item": "thaumictinkerer:funnel|0",
+      "emc": 2000
+    },
+    {
+      "item": "thaumicwonders:hexamite|0",
+      "emc": 5000
+    },
+    {
+      "item": "thaumicwonders:bone_bow|0",
+      "emc": 300
+    },
+    {
+      "item": "thaumicwonders:portal_anchor|0",
+      "emc": 15000
+    },
+    {
+      "item": "thaumicwonders:dimensional_ripper|0",
+      "emc": 150000
+    },
+    {
+      "item": "thaumicwonders:portal_generator|0",
+      "emc": 100000
+    },
+    {
+      "item": "thaumicwonders:void_beacon|0",
+      "emc": 500000
+    },
+    {
+      "item": "thaumicwonders:inspiration_engine|0",
+      "emc": 12000
+    },
+    {
+      "item": "thaumicrestoration:item_wandrod|0",
+      "emc": 50
+    },
+    {
+      "item": "thaumicrestoration:item_wandcap|0",
+      "emc": 500
+    },
+    {
+      "item": "thaumicrestoration:item_wand|0",
+      "emc": 1000
+    },
+    {
+      "item": "thaumicrestoration:item_wand|1",
+      "emc": 3000
+    },
+    {
+      "item": "thaumicrestoration:item_wand|2",
+      "emc": 250000
+    },
+    {
+      "item": "thaumicrestoration:block_adv_recharge_pedestal|0",
+      "emc": 80000
+    },
+    {
+      "item": "thaumicrestoration:item_witherring|0",
+      "emc": 120000
+    },
+    {
+      "item": "thaumicrestoration:block_paving_aer|0",
+      "emc": 200
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+	"priority": 1000000000000,
+	"populate": {
+		"as_crystal": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "astralsorcery:blockcustomore",
+				"material": "minecraft:stone",
+				"cluster-size": 1
+			},
+			"cluster-count": 10,
+			"center-height": 30,
+			"spread": 30,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+
+		"as_sand": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "astralsorcery:blockcustomsandore",
+				"material": "minecraft:stone",
+				"cluster-size": 3
+			},
+			"cluster-count": 15,
+			"center-height": 30,
+			"spread": 30,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+        
+		"eb_crystal": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "ebwizardry:crystal_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 5
+			},
+			"cluster-count": 20,
+			"center-height": 30,
+			"spread": 30,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+    }
+}

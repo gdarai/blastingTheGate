@@ -1,0 +1,15 @@
+{
+  "inventory": {
+    "1:1": "minecraft:leather_leggings",
+    "0:10": "ebwizardry:wizard_handbook",
+    "0:11": "cookingforblockheads:recipe_book,1,1",
+    "0:13": "everlastingabilities:ability_totem,1,0,{\"everlastingabilities:abilityStoreStack\":[{level:1,name:\"ability.abilities.everlastingabilities.resistance.name\"}]}",
+    "0:2": "minecraft:potion,1,0,{Potion:\"potioncore:flight\"}",
+    "0:9": "improvableskills:skills_book",
+    "0:0": "minecraft:iron_sword",
+    "0:1": "minecraft:iron_axe",
+    "0:12": "tconstruct:book",
+    "1:2": "minecraft:chainmail_chestplate",
+    "0:3": "tp:bacon_eggs_sandwhich,8"
+  }
+}
