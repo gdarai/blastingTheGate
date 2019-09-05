@@ -83,7 +83,7 @@ recipes.addShaped(<thebetweenlands:swamp_talisman:1>, [[<rootsclassic:growthsalv
 recipes.addShaped(<thebetweenlands:swamp_talisman:2>, [[null, <rootsclassic:darkoaktreebark>, <rootsclassic:mutagen>],[<rootsclassic:infernalstem>, <bloodmagic:slate:1>, <rootsclassic:infernalstem>], [<bloodmagic:slate:1>, <rootsclassic:darkoaktreebark>, null]]);
 recipes.addShaped(<thebetweenlands:swamp_talisman:3>, [[<rootsclassic:verdantsprig>, null, null],[<rootsclassic:jungletreebark>, <bloodmagic:slate:1>, null], [<rootsclassic:radiantdaisy>, <rootsclassic:jungletreebark>, <rootsclassic:verdantsprig>]]);
 recipes.addShaped(<thebetweenlands:swamp_talisman:4>, [[<rootsclassic:verdantsprig>, <rootsclassic:mutagen>, null],[<rootsclassic:growthsalve>, <bloodmagic:slate:1>, <rootsclassic:mutagen>], [null, <rootsclassic:growthsalve>, <rootsclassic:verdantsprig>]]);
-recipes.addShaped(<thebetweenlands:druid_altar>, [[null, <quark:biotite>, null],[<botania:livingrock:4>, <bloodmagic:altar>, <botania:livingrock:4>], [<botania:biomestoneb:6>, <botanicadds:pool_dreaming>, <botania:biomestoneb:6>]]);
+
 
 // Ender Storage
 recipes.removeShaped(<enderstorage:ender_storage:1>, [[<immersiveengineering:metal:40>, <tropicraft:zircon>, <immersiveengineering:metal:40>],[<aether_legacy:zanite_gemstone>, <bloodmagic:blood_tank>, <aether_legacy:zanite_gemstone>], [<immersiveengineering:metal:40>, <tropicraft:zircon>, <immersiveengineering:metal:40>]]);

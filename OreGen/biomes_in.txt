@@ -1,12 +1,11 @@
-jungle		jungle_hills		jungle					jungle_edge
-desert		desert_hills		desert
-savanna		mutated_savanna		savanna
-forrest		birch_forest_hills	forest_hills
-flower		mutated_forest
-iceberg		ice_mountains
-hills		extreme_hills		mutated_extreme_hills	taiga_hills		stone_beach
-taiga		taiga_cold_hills	ice_flats				cold_beach
-mesa		mutated_mesa		mesa					mesa_clear_rock
-underEnd	river
-hell		hell
-end			end
+jungle		jungle_hills		jungle					jungle_edge					beaches
+desert		desert_hills		desert					stone_beach
+savanna		mutated_savanna		savanna					savanna_rock
+forrest		birch_forest_hills	forest_hills			roofed_forest				birch_forest	forest		mutated_forest	
+iceberg		ice_mountains		ice_flats				frozen_river				frozen_ocean
+hills		extreme_hills		mutated_extreme_hills	extreme_hills_with_trees	deep_ocean		smaller_extreme_hills
+taiga		taiga_hills			redwood_taiga_hills		redwood_taiga				taiga
+cold		taiga_cold_hills	taiga_cold				cold_beach
+mesa		mutated_mesa		mesa					mesa_clear_rock				mesa_rock
+mushroom	mushroom_island		mushroom_island_shore
+normal		river				swampland				plains						ocean

@@ -7,8 +7,6 @@ import crafttweaker.liquid.ILiquidStack;
 mods.unidict.removalByKind.get("Crafting").remove("plate");
 
 val plPlates = {
-    tin : <drawbridges:plate:1>,
-    bronze : <drawbridges:plate:2>,
     copper : <immersiveengineering:metal:30>,
     gold : <immersiveengineering:metal:40>,
     silver : <immersiveengineering:metal:33>,
@@ -36,8 +34,6 @@ val plPlates = {
 } as IItemStack[string];
 
 var plIngots = {
-    tin : <ore:ingotTin>,
-    bronze : <ore:ingotBronze>,
     copper : <ore:ingotCopper>,
     gold : <ore:ingotGold>,
     silver : <ore:ingotSilver>,
@@ -64,8 +60,6 @@ var plIngots = {
 } as IOreDictEntry[string];
 
 var plLiquids = {
-    tin : <liquid:tin>,
-    bronze : <liquid:bronze>,
     copper : <liquid:copper>,
     gold : <liquid:gold>,
     silver : <liquid:silver>,
@@ -78,8 +72,8 @@ var plLiquids = {
     lead : <liquid:lead>
 } as ILiquidStack[string];
 
-var plAll = [ "tin", "bronze", "copper", "gold", "silver", "uran", "thBrass", "thThaum", "thVoid", "thPer", "thOrd", "thTer", "thAqu", "thIgn", "thAer", "const", "alu", "lead", "elect", "iron", "nick", "thMithm", "thMithr", "thAdam", "thThm" ] as string[];
-var plNamesHammer = [ "tin", "bronze", "copper", "gold", "silver", "lead" ] as string[];
+var plAll = ["copper", "gold", "silver", "uran", "thBrass", "thThaum", "thVoid", "thPer", "thOrd", "thTer", "thAqu", "thIgn", "thAer", "const", "alu", "lead", "elect", "iron", "nick", "thMithm", "thMithr", "thAdam", "thThm" ] as string[];
+var plNamesHammer = ["copper", "gold", "silver", "lead" ] as string[];
 var plNamesCast = [ "const", "alu", "elect", "nick", "iron", "steel" ] as string[];
 var plNamesStamp = [ "thBrass", "thThaum", "thVoid", "thMithm", "thMithr", "thAdam", "thThm", "thPer", "thOrd", "thTer", "thAqu", "thIgn", "thAer" ] as string[];
 
