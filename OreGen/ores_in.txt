@@ -33,3 +33,28 @@ sand		minecraft:sand						0	no		minecraft:stone			uniform		20		10		0	100
 cobaltNN	tconstruct:ore				0	no		minecraft:netherrack		uniform		1		2		45	65
 arditeNN	tconstruct:ore				1	no		minecraft:netherrack		uniform		1		3		45	65
 quartzNN	minecraft:quartz_ore		0	no		minecraft:netherrack		uniform		8		4		45	65
+
+
+Coal1		minecraft:coal_ore					0	no		minecraft:stone			uniform		16		20		0	100
+Redstone1	minecraft:redstone_ore				0	no		minecraft:stone			uniform		10		20		0	100
+Copper1		immersiveengineering:ore			0	no		minecraft:stone			uniform		10		10		0	100
+Iron1		minecraft:iron_ore					0	no		minecraft:stone			uniform		10		10		0	100
+Tin1		erebus:ore_tin						0	no		minecraft:stone			uniform		8		10		0	100
+Alu1		immersiveengineering:ore			1	no		minecraft:stone			uniform		8		10		0	100
+Lapis1		minecraft:lapis_ore					0	no		minecraft:stone			uniform		8		20		0	100
+Diamond1	minecraft:diamond_ore				0	no		minecraft:stone			uniform		4		10		0	100
+gold1		minecraft:gold_ore					0	no		minecraft:stone			uniform		6		20		0	100
+lead1		immersiveengineering:ore			2	no		minecraft:stone			uniform		6		20		0	100
+nickel1		immersiveengineering:ore			4	no		minecraft:stone			uniform		6		20		0	100
+uranium1	immersiveengineering:ore			5	no		minecraft:stone			uniform		2		10		0	100
+silver1		immersiveengineering:ore			3	no		minecraft:stone			uniform		5		20		0	100
+magicInf1	mysticalagriculture:inferium_ore	0	no		minecraft:stone			uniform		8		10		0	100
+magicProsp1	mysticalagriculture:prosperity_ore	0	no		minecraft:stone			uniform		6		20		0	100
+draconium1	draconicevolution:draconium_ore		0	no		minecraft:stone			uniform		3		10		0	100
+wizard1		ebwizardry:crystal_ore				0	no		minecraft:stone			uniform		4		20		0	100
+amber1		thaumcraft:ore_amber				0	no		minecraft:stone			uniform		3		10		0	100
+cinnabar1	thaumcraft:ore_cinnabar				0	no		minecraft:stone			uniform		3		10		0	100
+quartz1		thaumcraft:ore_quartz				0	no		minecraft:stone			uniform		4		10		0	100
+emerald1	minecraft:emerald_ore				0	no		minecraft:stone			uniform		4		10		0	100
+star1		astralsorcery:blockcustomore		0	no		minecraft:stone			uniform		2		10		0	100
+aqua1		astralsorcery:blockcustomsandore	0	no		minecraft:stone			uniform		8		20		0	100
