@@ -1,6 +1,6 @@
 ,normal,jungle,desert,savanna,forrest,iceberg,hills,taiga,cold,mesa,mushroom
 Coal,XX,,,XX,XX,,,XX,,,
-Redstone,,,,,,,,,,,
+Redstone,,XX,XX,,,XX,XX,,,XX,
 Copper,XX,,,,,,,XX,XX,XX,
 Iron,,XX,,XX,,,XX,,,,
 Tin,XX,,XX,,XX,,,XX,XX,XX,XX
