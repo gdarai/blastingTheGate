@@ -24,3 +24,27 @@ OreBasic19	quartz0			all		0
 OreBasic20	emerald0		all		0
 OreBasic21	star0			all		0
 OreBasic22	aqua0			all		0
+
+OreAdvanced0	Coal1			normal,savanna,forrest,taiga		0
+OreAdvanced1	Redstone1		jungle,desert,iceberg,hills,mesa		0
+OreAdvanced2	Copper1			normal,taiga,cold,mesa		0
+OreAdvanced3	Iron1			jungle,savanna,hills		0
+OreAdvanced4	Tin1			normal,desert,forrest,taiga,cold,mesa,mushroom		0
+OreAdvanced5	Alu1			normal,jungle,savanna,iceberg,mesa		0
+OreAdvanced6	Lapis1			desert,iceberg,hills,cold,mushroom		0
+OreAdvanced7	Diamond1		iceberg,hills,taiga,mesa		0
+OreAdvanced8	gold1			jungle,desert,forrest,mushroom		0
+OreAdvanced9	lead1			normal,savanna,forrest,mesa,mushroom		0
+OreAdvanced10	nickel1			jungle,forrest,iceberg,hills		0
+OreAdvanced11	uranium1		mushroom		0
+OreAdvanced12	silver1			jungle,savanna,iceberg,hills,mesa		0
+OreAdvanced13	magicInf1		iceberg,cold		0
+OreAdvanced14	magicProsp1		desert,cold		0
+OreAdvanced15	draconium1		mushroom		0
+OreAdvanced16	wizard1			desert,hills,taiga,cold		0
+OreAdvanced17	amber1			normal,jungle,savanna,forrest,taiga		0
+OreAdvanced18	cinnabar1		desert,savanna,iceberg,hills,mesa,mushroom		0
+OreAdvanced19	quartz1			jungle,hills,taiga,cold		0
+OreAdvanced20	emerald1		savanna,iceberg,hills,cold		0
+OreAdvanced21	star1			iceberg,mushroom		0
+OreAdvanced22	aqua1			normal,desert,savanna,mesa		0
